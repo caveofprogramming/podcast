@@ -1,0 +1,23 @@
+# Install Python, then Microsoft Powershell,
+# then Microsoft VS Code
+
+
+# For the Mac and Linux:
+# Try python3
+# Also
+# This might be useful to locate Python:
+# find / -name python
+
+
+# Create python environment:
+python -m venv venv
+
+# The "python" above MUST be the correct version of Python;
+# the one you've just installed
+
+# Activate the virtual environment for Powershell:
+./venv/bin/Activate.ps1
+
+
+
+
